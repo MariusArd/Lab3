@@ -6,6 +6,7 @@ public class tema2 {
     public static void main (String args[]){
 
         int n, reverse = 0;
+//
 
         System.out.println("Enter the number to reverse");
         Scanner in = new Scanner(System.in);
